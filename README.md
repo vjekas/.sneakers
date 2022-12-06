@@ -1,3 +1,3 @@
 # .sneakers basic e-commerce website
 
-https://vjekas.github.io/.sneakers/
+<h2>https://vjekas.github.io/.sneakers/</h2>
