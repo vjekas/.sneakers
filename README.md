@@ -1,1 +1,1 @@
-# .sneakers
+# .sneakers basic e-commerce website
